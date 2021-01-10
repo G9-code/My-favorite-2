@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    
+}
+#img1 {
+    width: 500px;
+    height: 500px;
+    border-color: gold;
+    border-width: 20px;
+    padding: 10px;
+    color: black;
+    cursor: pointer;
+}
+#h1{
+    color:forestgreen;
+    font-size: 50px;
+    font-family: fantasy;
+    font-style: italic;
+    font-variant: small-caps;
+}
+#s1{
+    background: linear-gradient(#ffffff 0%, #73ff00 100%);
+}
+#h2{
+    color:forestgreen; 
+    font-size: 45px;
+    font-family: fantasy;
+    font-style: italic;
+    font-variant: small-caps;
+}
+#p1{
+    font-size: 40px;
+    color: gold;
+    font-family: fantasy;
+    font-style: italic;
+    font-variant: small-caps;
+}
+#s2{
+    background: linear-gradient(#fafafa 0%, #ff21ff 100%);
+}
